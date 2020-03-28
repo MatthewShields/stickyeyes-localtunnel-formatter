@@ -2,7 +2,7 @@
 
 A WordPress plugin to be used in partnership with our WordPress framework to enable ngrok URLs to share local WordPress instances.
 
-## Step One: Install ‘Stickyeyes Localtunnel Formatter’ Plugin
+## Step One: Install ‘Stickyeyes Localtunnel Formatter’ Plugin
 Firstly install the plugin into the site, there is no configuration required or any settings pages so is nice and easy.
 
 ## Step Two: Add Snippet to wp-config.php
